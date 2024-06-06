@@ -1,10 +1,13 @@
-import React from "react";
+import React, {useEffect} from "react";
 import predata from "./PersonalData.json";
 import { useParams } from "react-router-dom";
 
 function Detail() {
   const { id } = useParams();
   console.log(id);
+  useEffect(() => {
+    window.scrollTo(0, 0);
+  }, []);
   return (
     <React.Fragment>
       <div className="">
