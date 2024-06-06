@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "SNAKE GAME",
+        "desc1": "I created a classic Snake game using C# programming language. The objective of this game is to control the movements of the snake and guide it towards the food while avoiding obstacles and walls.",
+        "desc2": "The game begins with a single snake, and as the snake eats food, it grows in length. The player must ensure that the snake does not collide with the walls or its own body, as this will result in a game over.",
+        "desc3": "I implemented the game using Unity Engine, which provided the necessary tools for creating the game interface and handling the game logic.",
+        "desc4":"The game includes different difficulty levels, with the speed of the snake increasing as the player progresses through the levels. In addition to the gameplay, I also added sound effects and high-score tracking functionality to enhance the user experience. Overall, this project allowed me to showcase my programming skills and creativity, while also providing an enjoyable and nostalgic gaming experience for users.",
+        "img": "/pphoto/snake.png",
+        "vid": "https://www.youtube.com/embed/zdtwAmmp2rM?autoplay=1&loop=1&playlist=zdtwAmmp2rM&rel=0&muted=1&controls=0",
+        "color": "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(1,122,5,1) 50%, rgba(0,0,0,1) 90%)"
+    },
+    {
+        "id": 2,
+        "name": "MERLIN DEMON WAR",
+        "desc1": "Merlin Demon War is a simple fun single-player card battler game set in a fantasy-themed world. In this game, Merlin faces Mordred and her army of darkness in a battle to the death and the player takes the role of Merlin and uses a selection of spells to defeat the Evil hordes of Mordred. The objective is simply to kill as many enemies as possible by strategically using your deck of cards to defeat their opponent. Each card represents a different attack or ability, with some cards having special effects that can turn the tide of the battle.",
+        "desc2": "One of the key features of the game is the mana meter, which is positioned on either side of the playfield. On the left side for the player and the right side for the enemy, the mana meters fill up with a mana gem each turn and dictate the number and strength of the cards that can be played (They fill up by +1 each turn. Turn one = 1 mana, Turn two = 2 mana, etc.)",
+        "desc3": "Another unique feature of the game is the mirror card ability, which allows players to reflect on their opponent's attack and use it against them, adding a new layer of strategy to the game.",
+        "desc4": "Overall, this turn-based 2D card combat game is a challenging and exciting experience for players who enjoy strategy games and demon-themed battles. This project was an excellent opportunity for me to showcase my game development skills.",
+        "img": "/pphoto/card.png",
+        "vid": "https://www.youtube.com/embed/pxltHiIqKnk?autoplay=1&loop=1&playlist=pxltHiIqKnk&rel=0&muted=1&controls=0",
+        "color": "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(50,1,122,1) 50%, rgba(0,0,0,1) 90%)"
+    },
+    {
+        "id": 3,
+        "name": "PING PONG GAME",
+        "desc1": "The classic Pong game has been recreated using the Unity game engine and C# programming language, providing a modern take on the iconic arcade game. The recreated version features two paddles and a bouncing ball, just like the original version. The game's graphics are basic, with a black and white screen and simple shapes representing the paddles and ball.",
+        "desc2": "The gameplay is straightforward, with players using their paddles to hit the ball back and forth across the screen. The aim is to score points by getting the ball past your opponent's paddle and hitting the wall behind them.",
+        "desc3": "The game is developed using the Unity game engine, C# programming language is used to program the game mechanics and logic, ensuring that the gameplay is smooth and responsive.",
+        "desc4": "In conclusion, the original classic Pong game is a timeless classic that has stood the test of time. The recreated Pong game brings a fresh and modern take to the classic arcade game. It's an excellent example of how classic games can be re-created using modern technology while still retaining the original gameplay and spirit.",
+        "img": "/pphoto/pingpong.png",
+        "vid": "https://www.youtube.com/embed/rjJXaBIag-Y?autoplay=1&loop=1&playlist=rjJXaBIag-Y&rel=0&muted=1&controls=0",
+        "color": "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(117,117,117,1) 50%, rgba(0,0,0,1) 90%)"
+    }, 
+    {
+        "id": 4,
+        "name": "ZOMBIE FURY",
+        "desc1": "The VR zombie shooting game designed for the Oculus platform is an immersive and action-packed experience that puts players in the middle of a zombie apocalypse. The game features various levels that have been intricately designed to provide a challenging and thrilling gameplay experience. As the player navigates through the levels, they must fend off hordes of zombies with a variety of weapons and equipment.",
+        "desc2": "Each level presents a unique challenge, with different types of zombies and environmental obstacles to overcome. The game's realistic graphics and 3D audio make players feel like they are truly in the middle of a zombie outbreak, adding to the overall sense of danger and excitement.",
+        "desc3": "As the game progresses, players can unlock new weapons and upgrades, allowing them to better equip themselves for the challenges ahead. The game also features a leaderboard system, allowing players to compete against each other for the highest scores.",
+        "desc4": "Overall, this VR zombie shooting game is a thrilling and immersive experience for players who love action-packed games and the challenge of surviving in a post-apocalyptic world. Overall, I'm incredibly proud of what I have accomplished with this project. I believe that it demonstrates my passion for game design and my dedication to creating high-quality products that deliver an unforgettable experience to players.",
+        "img1": "/pphoto/Zombie_fury.png",
+        "img2": "/pphoto/Zombie_fury1.png",
+        "img3": "/pphoto/Zombie_fury2.png",
+        "img4": "/pphoto/Zombie_fury3.png",
+        "vid": "https://www.youtube.com/embed/pr62WPWKMuA?autoplay=1&loop=1&playlist=pr62WPWKMuA&rel=0&muted=1&controls=0",
+        "color": "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(150,1,1,1) 50%, rgba(0,0,0,1) 90%)"
+    }, 
+    {
+        "id": 5,
+        "name": "V20 CRICKET",
+        "desc1": "V20 is an immersive VR cricket game that provides an exhilarating experience for fans, closely resembling real-life cricket. an immersive and engaging experience for players through realistic batting and fielding mechanisms. the game will strive to replicate the thrill and excitement of cricket, focusing on the intricacies of batting and fielding in a virtual environment.",
+        "desc2": "Realistic Batting Mechanics: The VR cricket game will prioritize replicating the authentic experience of batting in cricket, allowing players to face various bowling styles and execute a wide range of cricket shots with precision and realism. Dynamic Fielding Mechanisms: The game will feature advanced fielding mechanics, including realistic player movements, catching, throwing, and strategic field placements to create an immersive fielding experience.",
+        "desc3": "Platform: The VR cricket game was developed for the Oculus Quest. Development Tools: Unity Engine will be utilized for game development to ensure high-quality graphics and performance. Motion Controller Integration: The game will support VR motion controllers to enable natural and intuitive batting interactions.",
+        "desc4": "In my role, I was responsible for designing and implementing realistic fielding behaviors, testing them, and ensuring an immersive and intuitive batting experience for players. This experience allowed me to develop a deep understanding of VR game mechanics and improve my skills in creating engaging and authentic gameplay interactions.",
+        "img1": "/pphoto/MY_bat.PNG",
+        "img2": "/pphoto/V20 1.JPG",
+        "img3": "/pphoto/V20 2.JPG",
+        "vid": "https://www.youtube.com/embed/hyRuiJJGpbY?autoplay=1&loop=1&playlist=hyRuiJJGpbY&rel=0&muted=1&controls=0",
+        "color": "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(1,57,150,1) 50%, rgba(0,0,0,1) 90%)"
+    }, 
+    {
+        "id": 6,
+        "name": "HORROR GAME",
+        "desc1": "The VR Horror Simulation project is an immersive and spine-chilling virtual reality experience designed to push the boundaries of fear and suspense. this project aims to deliver a truly terrifying and unforgettable experience for users.",
+        "desc2": "Immersive VR Environment: Players will find themselves fully immersed in a haunting and atmospheric environment, complete with eerie soundscapes and realistic visuals. Fear-Inducing Elements: From jump scares to psychological horror, this VR simulation will incorporate a variety of fear-inducing elements to keep players on the edge of their seats. Realistic Mechanics: The project will leverage VR technology to deliver realistic movements and enhance the sense of presence and fear for the players.",
+        "desc3": "The target audience for this project includes horror enthusiasts, gamers, and VR enthusiasts who are seeking a truly immersive and adrenaline-pumping experience. Additionally, industry professionals and potential collaborators within the VR and gaming industry.",
+        "desc4": "The VR Horror Simulation project represents a convergence of cutting-edge technology and captivating storytelling, aiming to leave a lasting and spine-tingling impression on its audience. Through this project, I seek to demonstrate my ability to create compelling and immersive experiences within the realm of virtual reality and to showcase the potential for innovation and creativity within the VR gaming landscape.",
+        "img1": "/pphoto/HORROR_1.png",
+        "img2": "/pphoto/HORROR_2.png",
+        "img3": "/pphoto/HORROR_3.png",
+        "vid": "https://www.youtube.com/embed/Zd83DL4ag0U?autoplay=1&loop=1&playlist=Zd83DL4ag0U&rel=0&muted=1&controls=0",
+        "color": "linear-gradient(90deg, rgba(0,0,0,1) 10%, rgba(117, 0, 0, 1) 50%, rgba(0,0,0,1) 90%)"
+    }
+]
