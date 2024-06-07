@@ -100,7 +100,10 @@ html, body, .App {
   background-repeat:no-repeat;
   background-size:cover;
 }
-
+.vid{
+      width: 100%;
+      height: 100%;
+}
 
 @media (max-width: 998px) {
       .bg_home{
