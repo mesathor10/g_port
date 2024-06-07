@@ -18,9 +18,9 @@ function Detail() {
               className="text-light"
               style={{
                 background: `${data.color}`,
-              }}
+              }} key={data.id}
             >
-              <div className="container-fluid p-0" key={data.id}>
+              <div className="container-fluid p-0" id={data.name}>
                 <div className=" row justify-content-center align-items-center row-gap-4 pt-5">
                   <div className="col-10 text-start mt-5  display-2 fw-bold fst-italic">
                     {data.name}
@@ -32,9 +32,8 @@ function Detail() {
                   </div>
                   <div className="col-10 ">
                     <iframe
-                      width="100%"
-                      height="100%"
                       src={data.vid}
+                      className="vid"
                       title="YouTube video player"
                       frameborder="0"
                       allow="autoplay; encrypted-media;"
