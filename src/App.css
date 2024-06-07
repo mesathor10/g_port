@@ -107,3 +107,9 @@ html, body, .App {
         height: 60vh;
       }
     }
+    
+@media screen and (min-width:586px) {
+  .vid{
+    height: 500px;
+  }
+}
