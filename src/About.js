@@ -8,9 +8,9 @@ function About() {
           About
         </h4>
         <div className="row justify-content-center align-items-center">
-          <div className="col-12">
+          <div className="col-12 about">
             <p className="fs-5">
-              <br />I am an enthusiastic video game developer dedicated to
+              I am an enthusiastic video game developer dedicated to
               creating captivating and immersive gaming experiences. With a
               passion for storytelling and gameplay mechanics, I strive to push
               the boundaries of interactive entertainment. My experience in game
