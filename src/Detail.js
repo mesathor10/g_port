@@ -25,11 +25,7 @@ function Detail() {
                   <div className="col-10 text-start mt-5  display-2 fw-bold fst-italic">
                     {data.name}
                   </div>
-                  <div className="col-10 ">
-                    <div className="fs-5">
-                      <p>{data.desc1}</p>
-                    </div>
-                  </div>
+                  
                   <div className="col-10 ">
                     <iframe
                       src={data.vid}
@@ -39,6 +35,11 @@ function Detail() {
                       allow="autoplay; encrypted-media;"
                       allowfullscreen
                     ></iframe>
+                  </div>
+                  <div className="col-10 ">
+                    <div className="fs-5">
+                      <p>{data.desc1}</p>
+                    </div>
                   </div>
                   <div className="col-10 ">
                     <div className="fs-5">
