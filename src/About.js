@@ -3,13 +3,13 @@ import React from "react";
 function About() {
   return (
     <div className="position-relative border-bottom" id="about">
-      <div className="container my-5  text-light">
+      <div className="container-fluid my-5  text-light">
         <h4 className="text-center fs-3 fw-bold text-decoration-underline">
           About
         </h4>
         <div className="row justify-content-center align-items-center">
           <div className="col-12 about">
-            <p className="fs-5">
+            <p className="fs-5 mx-3">
               I am an enthusiastic video game developer dedicated to
               creating captivating and immersive gaming experiences. With a
               passion for storytelling and gameplay mechanics, I strive to push
