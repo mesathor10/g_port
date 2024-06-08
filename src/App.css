@@ -3,7 +3,7 @@ html, body, .App {
       height: 100%;
       width: 100%;
       z-index: 1;
-      text-align: center;
+      text-align: justify;
       /* overflow-x: hidden; */
       font-family: "Chakra Petch", sans-serif;
       background: url("../public/pphoto/Thumb.png");
@@ -115,4 +115,8 @@ html, body, .App {
   .vid{
     height: 500px;
   }
+}
+
+div.about {
+  text-indent: 5%;
 }
