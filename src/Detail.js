@@ -22,7 +22,7 @@ function Detail() {
             >
               <div className="container-fluid p-0" id={data.name}>
                 <div className=" row justify-content-center align-items-center row-gap-4 pt-5">
-                  <div className="col-10 text-start mt-5  display-2 fw-bold fst-italic">
+                  <div className="col-10 text-center mt-5  display-2 fw-bold fst-italic">
                     {data.name}
                   </div>
                   
